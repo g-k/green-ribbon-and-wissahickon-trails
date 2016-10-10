@@ -6,6 +6,7 @@ A longer flat hike accessible by regional train following the Wissahickon River 
 
 https://goo.gl/maps/cJjNjRk3A4v
 
+Oct. 6 2016
 
 Sunrise at 7:02 AM and Sunset 6:36 at PM left almost 12 hours of daylight.
 
