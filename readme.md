@@ -1,4 +1,4 @@
-A longer flat hike accessible by regional train following the Wissahickon River back into Philly.
+A longer flat walk accessible by regional train following the Wissahickon River back into Philly.
 
 [The Green Ribbon Trail](http://www.wvwa.org/greenribbontrail/) runs into the Montgomery County Wissahickon Trail and almost abuts the [Philadelphia Country Wissahickon Trail](http://fow.org/visit-the-park/).
 
@@ -51,12 +51,40 @@ Eventually I reached the end of the Montgomery County Wissahickon Trail:
 
 ![endmontcotrails](endmontcotrails.jpg)
 
+Google Street View of that spot: https://www.google.com/maps/@40.102099,-75.2306219,3a,75y,298.02h,62.71t/am=t/data=!3m6!1e1!3m4!1sW2NTCS2mkRSI6BtgWyopkw!2e0!7i13312!8i6656
 
-the bridge over Stent on Ave. has no shoulder on either side of the road.
-recommend climbing on top of the barrier 
+Getting from the Montgomery County Wissahickon Trail to Philadelpiha County Wissahickon Trail was probably the worst part. I hung a left to follow Stenton Ave. but the bridge has no shoulder on either side of the road and there's a fair bit of traffic. I climbed on top of the barrier wall since oncoming traffic from both directions would probably end badly:
 
+https://www.google.com/maps/@40.102099,-75.2306219,3a,75y,147.49h,80.15t/am=t/data=!3m6!1e1!3m4!1sW2NTCS2mkRSI6BtgWyopkw!2e0!7i13312!8i6656
 
-started getting dark early in the gorge 4pm, but street lights turned on (on Forbidden Drive)
+There's also no shoulder and some incline on either side of the road:  
 
-* more trash in Philly (but also more people)
-* prefer the orange trail in Philadelphia C
+https://www.google.com/maps/@40.095821,-75.227338,3a,75y,142.88h,86.19t/am=t/data=!3m6!1e1!3m4!1sg2VLgrgSdwsIpcVqK32HJQ!2e0!7i13312!8i6656
+
+But once you hit the light there's a car sized path across from Morris Arboretum (which will be helpful when I become car sized):
+
+https://www.google.com/maps/@40.0929969,-75.2237232,3a,75y,177.62h,80.34t/am=t/data=!3m6!1e1!3m4!1sU9aF0Vi5_hMlwRBgMWnAHw!2e0!7i13312!8i6656
+
+TODO: look into why Penn owns an Arboretum so far away from its campus
+
+Maybe there's a better way to walk from one county's trail system to the other. 
+
+Anyway, after passing Chestnut Hill College I took a left onto Germantown Ave and was back in Philadelphia County. We can see more trash too, because more people and greater trail usage presumably.
+
+The Orange Trail on the east side of the creek is more interesting walking (not pavement) and includes this fire hydrant:
+
+![fire hydrant](firehydrant.jpg)
+
+and the fingerspan bridge:
+
+![fingerspan bridge](fingerspan.jpg)
+
+But if you were biking from around the Turnpike you could stay on the dirt and gravel Forbidden Drive.
+
+It started getting dark early in the gorge 4pm, but street lights turned on.
+
+Following the gorge out I ended up south of Manayunk and took the Schuylkill River trail back to the Art Museum where it was nice to sit down for a minute:
+
+![feet](feet.jpg)
+
+![skyline](skyline.jpg)
