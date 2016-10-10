@@ -71,7 +71,7 @@ Maybe there's a better way to walk from one county's trail system to the other.
 
 Anyway, after passing Chestnut Hill College I took a left onto Germantown Ave and was back in Philadelphia County. We can see more trash too, because more people and greater trail usage presumably.
 
-The Orange Trail on the east side of the creek is more interesting walking (not pavement) and includes this fire hydrant:
+The Orange Trail on the east side of the creek is more interesting walking (not pavement) and includes this fire hydrant ([more fire hydrants](http://billypenn.com/2016/10/07/the-8-sexiest-fire-hydrants-in-philadelphia/)):
 
 ![fire hydrant](firehydrant.jpg)
 
