@@ -8,7 +8,7 @@ https://goo.gl/maps/cJjNjRk3A4v
 
 Oct. 6 2016
 
-Sunrise at 7:02 AM and Sunset 6:36 at PM left almost 12 hours of daylight.
+Sunrise at 7:02 AM and Sunset 6:36 at PM left almost 12 hours of daylight.  There are also a bunch of train and bus stations nearby to bail out or for a shorter walk. 
 
 Took the Lansdale/Doylestown Line to the North Wales stop (conductor prevented me from getting off at North Hills). Arrived at 8:35.
 
